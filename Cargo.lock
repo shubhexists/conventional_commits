@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "conventional_commit"
-version = "0.1.0"
+name = "conventional_commits"
+version = "0.1.1"

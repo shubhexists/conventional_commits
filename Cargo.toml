@@ -1,11 +1,11 @@
 [package]
-name = "conventional_commit"
+name = "conventional_commits"
 description = "A lightweight parser following the conventional commit standards"
-version = "0.1.0"
+version = "0.1.1"
 license = "MIT"
 edition = "2021"
 author = "Shubham singh	<github: github.com/shubhexists>"
-repository = "https://github.com/shubhexists/conventional_commit"
+repository = "https://github.com/shubhexists/conventional_commits"
 categories = ["development-tools", "compilers"]
 keywords = ["parser", "commit", "conventional_commit", "lexer", "dev-tools"]
 readme = "README.md"
