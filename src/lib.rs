@@ -13,7 +13,7 @@
 //! To parse a conventional commit message:
 //!
 //! ```rust
-//! use conventional_commit::{parse_commit, Lexer};
+//! use conventional_commits::{parse_commit, Lexer};
 //!
 //! fn parse_example() -> Result<(), String> {
 //!     let input = "feat(parser): add ability to parse conventional commits".to_string();
